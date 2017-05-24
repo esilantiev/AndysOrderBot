@@ -1,0 +1,13 @@
+BookName,BookAuthor,Categories
+Emmit Scott,SPA Design and Architecture: Understanding Single Page Web Applications, javascript SPA frontend
+Robert C. Martin ,"Agile Principles, Patterns, and Practices in C#", Agile C# backend
+Jon Skeet  ,C# in Depth, C# backend
+Richter ,CLR via C#, C# backend
+Michael Feathers ,Working Effectively with Legacy Code,  backend legacy architecture
+Grant Fritchey ,SQL Server Query Performance Tuning, SQL database
+Gary McLean Hall ,Adaptive Code via C#: Agile coding with design patterns and SOLID principles,  backend architecture
+Adam Boduch,JavaScript Concurrency, javascript frontend
+Jamie Kurtz,ASP.NET Web API 2: Building a REST Service from Start to Finish, webapi backend
+Itzik Ben-Gan,T-SQL Querying (Developer Reference); SQL database
+Adam Freeman,Pro AngularJS, javascript SPA frontend
+Adam Aspin,SQL Server 2012 Data Integration Recipes: Solutions for Integration Services; SQL database
